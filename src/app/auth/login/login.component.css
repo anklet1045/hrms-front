@@ -1,0 +1,44 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+  
+.container{
+    border: 1px solid grey;
+    height: 95vh;
+    box-shadow: 0 0 10px 5px white;
+}
+
+#fp{
+   display: inline-block;
+   font-size: 1rem;
+   color: rgb(88, 194, 236);
+   /* margin-left: 2rem; */
+}
+
+.rm{
+    font-size: 0.9rem;
+}
+
+
+#il{
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+.s1{
+    background-image: url('src/assets/project-img.jpg');
+    height: 94.6vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.inp{
+    height: 3%;
+    width: 90%;
+    border: 1px solid grey;
+}
+
